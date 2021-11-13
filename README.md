@@ -23,7 +23,7 @@
 
 ### 🔥 Random Fact
 
-    MyDoom virus caused 38.5 Billion $ in damages(most damage caused by a computer virus till now).
+    MyDoom virus caused $38.5 billion in damages(most damage caused by a computer virus till now).
 
 
 </br>
