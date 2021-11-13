@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning SIEM (Security Information & Event Management).
 - 💬 Ask me about:
 - 📫 How to reach me: Email- imanshulvats@gmail.com Twitter- @VatsAnshul Linkedin- @anshulvats
-- ⚡ Fun fact: The Most Expensive Computer Virus(MyDoom) Ever Caused $38.5 Billion In Damages.
+- ⚡ Fun fact: The Most Expensive Computer Virus(MyDoom) Caused $38.5 Billion In Damages.
 
 ### Connect with me:
 
