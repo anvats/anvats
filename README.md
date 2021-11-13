@@ -22,7 +22,7 @@
 | ![Anvats's github stats](https://github-readme-stats.vercel.app/api?username=anvats&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Anvats's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anvats&label=Profile%20views&color=red&style=flat" alt="anvats" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anvats&label=Profile%20Views&color=red&style=flat" alt="anvats" /> </p>
 
 [twitter]: https://twitter.com/VatsAnshul
 [instagram]: https://instagram.com/anshul_vats
