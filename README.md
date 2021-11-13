@@ -1,6 +1,6 @@
 ### Hi, I am Anshul. 👋
 
-## 👀 About Me
+### 👀 About Me
 - 🔭 I’m currently working in the field of Cyber Security.
 - 🌱 I’m currently learning SIEM (Security Information & Event Management).
 -  🔥 I like collecting NFTs.
