@@ -15,12 +15,10 @@
 
 </br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## Github Stats
 
-  <img align="left" alt="anvats's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anvats&show_icons=true&hide_border=true" />
+  <img align="left" alt="anvats's GitHub Stats" src="https://github-readme-stats.anvats.vercel.app/api?username=anvats&show_icons=true&hide_border=true" />
 
-</details>
 
 [twitter]: https://twitter.com/VatsAnshul
 [instagram]: https://instagram.com/anshul_vats
