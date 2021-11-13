@@ -7,22 +7,17 @@
 - 📫 How to reach me: Email- imanshulvats@gmail.com Twitter- @VatsAnshul Linkedin- @anshulvats
 </br>
 
-## ⚡ Technologies
+## 💻 Languages & Technologies
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=dart)
-![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
+![Matic](https://img.shields.io/badge/-polygon-green?style=flat-square&logo=polygon)
 ![Binance](https://img.shields.io/badge/-binance-grey?style=flat-square&logo=binance)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript)
-![Deno](https://img.shields.io/badge/-deno-purple?style=flat-square&logo=deno)
-![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Csharp](https://img.shields.io/badge/-csharp-E34A86?style=flat-square&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
