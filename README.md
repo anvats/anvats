@@ -15,10 +15,9 @@
 
 </br>
 
-## Github Stats
+## ⚡ Github Stats
 
-  <img align="left" alt="anvats's GitHub Stats" src="https://github-readme-stats.anvats.vercel.app/api?username=anvats&show_icons=true&hide_border=true" />
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvats&show_icons=true&locale=en&layout=compact" alt="anvats" /></p>
 
 [twitter]: https://twitter.com/VatsAnshul
 [instagram]: https://instagram.com/anshul_vats
