@@ -21,7 +21,7 @@
 | ![Anvats's github stats](https://github-readme-stats.vercel.app/api?username=anvats&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Anvats's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 </br>
 
-### 🔥 Random Fact
+### 🔥 Random Fun Fact
 
     MyDoom virus caused $38.5 billion in damages(most damage caused by a computer virus till now).
 
