@@ -9,10 +9,9 @@
 
 ## 💻 Languages & Technologies
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=Dart)
 ![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
-![Matic](https://img.shields.io/badge/-polygon-green?style=flat-square&logo=polygon)
 ![Binance](https://img.shields.io/badge/-binance-grey?style=flat-square&logo=binance)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
